@@ -1,0 +1,4 @@
+Describe the Single Page application that you are trying to build?
+The application that I am building is simple note taking application on the browser. It is an application that will store the data on the users’ Dropbox account and will help the user to access the notes from anywhere any machine. The user will be able to edit the title and the contents of the notes, no loss of content unless the user deletes it. The user interface will be like the post it notes that we use.
+The targeted audience for the application will be general public who use internet to do research and keep a track of their findings. People who would want to keep a list of things or who find some interesting facts, or to remember a list of things. There are numerous applications for this note. 
+The competitors for this application are Evernote, Microsoft’s One Note and Google Keep. 
